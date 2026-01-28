@@ -6,11 +6,11 @@ COVID County Visualizer is an interactive web mapping lab that visualizes county
 ## Maps and Screenshots
 - **Choropleth Map (Rates per 1,000 Residents)**  
 ![Choropleth Map](img/mymap1.png)  
-Link to live map: [[LINK](https://Kur0Vargas.github.io/GEOG458-COVID-County-Visualizer-Lab-3-/map1.html)]
+Link to map: [[LINK](https://Kur0Vargas.github.io/GEOG458-COVID-County-Visualizer-Lab-3-/map1.html)]
 
 - **Centroid Map (Absolute Case Counts)**  
 ![Centroid Map](img/mymap2.png)  
-Link to live map: [[LINK](https://Kur0Vargas.github.io/GEOG458-COVID-County-Visualizer-Lab-3-/map2.html)]
+Link to map: [[LINK](https://Kur0Vargas.github.io/GEOG458-COVID-County-Visualizer-Lab-3-/map2.html)]
 
 ## Primary Functions
 - **Choropleth Map**
